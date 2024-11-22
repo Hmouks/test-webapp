@@ -1,8 +1,7 @@
 [browser]
 serverAddress = "0.0.0.0"
+serverPort = 8000
 
 [general]
 email = ""
 
-[server]
-port=80
